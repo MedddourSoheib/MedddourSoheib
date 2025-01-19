@@ -1,9 +1,9 @@
 - 👋 Hi there, **I’m @SouheibMeddour**
-- 🏢 I'm a **Ex Control engineer from Polytechnic School,** and **Final year Perception student at Paris Saclay**
+- 🏢 I'm a **Ex Control engineer from Polytechnic School,** and **Licence student at Paris Saclay**
 - 🔭 I’m currently a **Maachine Learning** intern.
 - 🔥 Interested in **Robotics and Deep Learning.**
 - 🌱 I’m actually learning **Generative IA.**
-- ⚙️ I use daily: **.py, .ipynb, .m.**
+- ⚙️ I use daily: ** .py, .ipynb, .c , .cpp **
 - ⚡ Fun fact **I think am funny.**
 
 ### tools I use 
