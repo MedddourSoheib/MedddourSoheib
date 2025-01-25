@@ -1,6 +1,6 @@
 - 👋 Hi there, **I’m @SouheibMeddour**
 - 🏢 I'm a **Ex Control engineer from Polytechnic School,** and **Licence student at Paris Saclay**
-- 🔭 I’m currently a **Maachine Learning** intern.
+- 🔭 I’m currently a **Machine Learning** intern.
 - 🔥 Interested in **Robotics and Deep Learning.**
 - 🌱 I’m actually learning **Generative IA.**
 - ⚙️ I use daily: ** .py, .ipynb, .c , .cpp **
